@@ -1,0 +1,147 @@
+header{
+    background-image: url('Hero/Background.png');
+    background-size: cover;
+    height: 846px;
+    box-sizing: border-box;
+    padding: 28px 165px;
+    font-family: 'Manrope', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h5, p{
+    font-family: 'Manrope', sans-serif;
+}
+p{
+    font-size: 15px;
+}
+h2{
+    font-size: 48px;
+}
+h4{
+    font-size: 24px;
+}
+.navi{
+    font-style: normal;
+    font-weight: bolder;
+    color: black;
+    font-size: 14px;
+    top: 26px;
+    text-decoration: none;
+}
+.playstore{
+    position: static;
+    height: 40px;
+    padding-left: 70%;
+}
+.Top{
+    position: absolute;
+    word-spacing: 20px;
+}
+.title{
+    position: absolute;
+    top: 240px;
+    font-weight: 800;
+    line-height: 98px;
+}
+.phone{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    width: 350px;
+    left: 925px;
+    top: 168px;
+}
+.button{
+    display: inline-block;
+    position: absolute;
+    top: 468px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    background: #8C30F5;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.Clouds{
+    height: 28px;
+    align-self: center;
+}
+.tabel{
+    text-align: center;
+}
+.icn{
+    width: 32px;
+    height: 32px;
+}
+.body2{
+    background-size: cover; 
+    height: 846px;
+    background-color: #D5FAFC;
+    padding: 28px 165px;
+}
+.body3{
+    padding: 64px 165px;
+    height: 668px;
+    background-size: cover;
+    background-color: white;
+}
+.subbody3{
+    padding: 50px 150px;
+    height: 240px;
+    background-size: cover;
+    background-color: white;
+}
+.text{
+    position: absolute;
+    right: 165px;
+    top: 2800px;
+    line-height: 32px;
+}
+.getlink{
+    font-size: 20px; 
+    line-height: 30px;
+    text-decoration: none; 
+    color: #8C30F5;
+    font-weight: bold;
+}
+.body4{
+    height: 674px;
+    padding: 64px 165px;
+    background-size: cover;
+    background-color: white;
+}
+.body5{
+    height: 491px;
+    padding: 68px 165px;
+    background-size: cover;
+    background-color: #2EC5CE;
+    flex-direction: row;
+}
+.text5{
+    position: absolute;
+    line-height: 35px;
+    flex-direction: column;
+}
+
+.phone3{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    right: 140px;
+    top: 3930px;
+}
+.footer{
+    height: 200px;
+    padding: 50px 165px;
+    background-size: cover;
+    background-color: #0B0D17;
+}
+.navi1{
+    font-style: normal;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+
+}
